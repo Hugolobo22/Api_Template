@@ -1,3 +1,5 @@
+// Copie o código e cole nos arquivos dos SEUS dados, substituindo template pelo nome do seu dado.
+
 import request, { Response } from "supertest";
 import app from "../../app";
 
