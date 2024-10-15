@@ -1,3 +1,6 @@
+// Copie o código e cole nos arquivos dos SEUS dados, substituindo template pelo nome do seu dado.
+// Coloque os atributos referente à sua tabela ao invés de "nome" e "atributo"
+
 const CreateTemplateSchema = {
     nome: {
       notEmpty: {
