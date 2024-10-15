@@ -4,6 +4,8 @@ import { CreateTemplateSchema, PatchTemplateSchema, UpdateTemplateSchema } from 
 import TemplateController from "../../controllers/template.contoller";
 import InterceptarErrosMiddleware from "../../shared/middlewares/interceptadorDeErros.middleware";
 
+// Copie o código e cole nos arquivos dos SEUS dados, substituindo template pelo nome do seu dado.
+
 const TemplateRouter = Router();
 const _templateController = new TemplateController();
 
